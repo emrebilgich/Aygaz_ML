@@ -68,12 +68,17 @@ Proje sonunda en iyi performans gösteren model Random Forest Classifier olmuşt
 Projeyi çalıştırmak için aşağıdaki kütüphanelerin yüklü olması gerekmektedir:
 
 Python 3
+
 numpy
+
 pandas
+
 scikit-learn
+
 matplotlib
+
 seaborn
-Projeye katkıda bulunmak için lütfen bir pull request açın veya herhangi bir öneri için iletişime geçin.
+
 
 Lisans
-Bu proje MIT lisansı ile lisanslanmıştır.
+Bu proje, Apache License 2.0 ile lisanslanmıştır.
