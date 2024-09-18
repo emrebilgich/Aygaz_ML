@@ -86,6 +86,7 @@ seaborn
 # Kaggle 
 
 https://www.kaggle.com/code/yunusemrebilgic/jobs18-09-ml
+
 https://www.kaggle.com/code/yunusemrebilgic/k-means-ml
 
 # Lisans
