@@ -25,6 +25,7 @@ fraudulent: Sahte (1) veya gerçek (0) olarak etiketlenmiş
 Bu projede aşağıdaki teknikler ve yöntemler kullanılmıştır:
 
 Exploratory Data Analysis (EDA): Verinin analiz edilip, anomali ve eksik değerlerin incelenmesi
+
 Veri Ön İşleme: Eksik verilerin işlenmesi, kategorik verilerin sayısallaştırılması (encoding)
 
 Sınıflandırma Modelleri:
