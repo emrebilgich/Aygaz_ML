@@ -28,8 +28,8 @@ Exploratory Data Analysis (EDA): Verinin analiz edilip, anomali ve eksik değerl
 Veri Ön İşleme: Eksik verilerin işlenmesi, kategorik verilerin sayısallaştırılması (encoding)
 
 Sınıflandırma Modelleri:
-Lojistik Regresyon
-Karar Ağaçları
+Lojistik Regresyon, 
+Karar Ağaçları, 
 Random Forest
 
 Hiperparametre Optimizasyonu: Grid Search ve Random Search yöntemleri ile model performansını iyileştirme
