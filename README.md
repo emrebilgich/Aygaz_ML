@@ -53,9 +53,13 @@ seaborn
 Proje şu şekilde yapılandırılmıştır:
 
 data/: Veri dosyaları
+
 notebooks/: Jupyter Notebook dosyaları
+
 scripts/: Python script dosyaları
+
 README.md: Projenin açıklama dosyası
+
 
 # Sonuçlar
 Proje sonunda en iyi performans gösteren model Random Forest Classifier olmuştur. Modelin doğruluk oranı %X olarak hesaplanmıştır. Ayrıca precision, recall ve F1-score değerleriyle modelin performansı detaylı olarak analiz edilmiştir.
