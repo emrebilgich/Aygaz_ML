@@ -80,6 +80,10 @@ matplotlib
 seaborn
 
 
+#Kaggle 
+
+https://www.kaggle.com/code/yunusemrebilgic/jobs18-09-ml
+
 # Lisans
 
 Bu proje, Apache License 2.0 ile lisanslanmıştır.
