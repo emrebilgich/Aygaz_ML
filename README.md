@@ -62,7 +62,7 @@ README.md: Projenin açıklama dosyası
 
 
 # Sonuçlar
-Proje sonunda en iyi performans gösteren model Random Forest Classifier olmuştur. Modelin doğruluk oranı %X olarak hesaplanmıştır. Ayrıca precision, recall ve F1-score değerleriyle modelin performansı detaylı olarak analiz edilmiştir.
+Proje sonunda en iyi performans gösteren model Random Forest Classifier olmuştur. Modelin doğruluk oranı %97 olarak hesaplanmıştır. Ayrıca precision, recall ve F1-score değerleriyle modelin performansı detaylı olarak analiz edilmiştir.
 
 # Gereksinimler
 Projeyi çalıştırmak için aşağıdaki kütüphanelerin yüklü olması gerekmektedir:
@@ -80,5 +80,7 @@ matplotlib
 seaborn
 
 
-Lisans
+# Lisans
+
 Bu proje, Apache License 2.0 ile lisanslanmıştır.
+
