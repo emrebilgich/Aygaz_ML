@@ -33,7 +33,9 @@ Karar Ağaçları,
 Random Forest
 
 Hiperparametre Optimizasyonu: Grid Search ve Random Search yöntemleri ile model performansını iyileştirme
+
 Model Değerlendirme: Accuracy, Precision, Recall, F1-score gibi metriklerin kullanılması
+
 
 # Kullanılan Kütüphaneler
 Projede kullanılan temel Python kütüphaneleri:
