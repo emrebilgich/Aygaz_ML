@@ -9,11 +9,17 @@ Fake Job Posting Prediction: Bu veri seti, iş ilanlarına ait başlık, şirket
 Veri seti şu sütunları içerir:
 
 title: İlan başlığı
+
 company: Şirket adı
+
 location: İş yeri lokasyonu
+
 employment_type: İstihdam türü (tam zamanlı, yarı zamanlı)
+
 required_experience: İlanın gerektirdiği deneyim
+
 fraudulent: Sahte (1) veya gerçek (0) olarak etiketlenmiş
+
 
 # Kullanılan Teknikler
 Bu projede aşağıdaki teknikler ve yöntemler kullanılmıştır:
