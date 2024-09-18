@@ -33,10 +33,15 @@ Model Değerlendirme: Accuracy, Precision, Recall, F1-score gibi metriklerin kul
 Projede kullanılan temel Python kütüphaneleri:
 
 pandas
+
 numpy
+
 scikit-learn
+
 matplotlib
+
 seaborn
+
 
 # Proje Yapısı
 Proje şu şekilde yapılandırılmıştır:
