@@ -80,7 +80,7 @@ matplotlib
 seaborn
 
 
-#Kaggle 
+# Kaggle 
 
 https://www.kaggle.com/code/yunusemrebilgic/jobs18-09-ml
 
